@@ -5,4 +5,7 @@ the person names, organizations, locations, medical codes, time expressions, qua
 
 Named Entity Recognition is a pre-defined list of entities learned by the AI model     
  
- Uses CNN + Bi-directional LSTM  
+ Uses Elmo + Bi-directional LSTM      
+ 
+ Reference     
+ https://towardsdatascience.com/elmo-embeddings-in-keras-with-tensorflow-hub-7eb6f0145440
