@@ -1,2 +1,5 @@
 # NLP_Entity-Recognition using ELMO
- Uses CNN + Bi-directional LSTM
+  
+ Named Entity Recognition is a pre-defined list of entities learned by the AI model     
+ 
+ Uses CNN + Bi-directional LSTM  
