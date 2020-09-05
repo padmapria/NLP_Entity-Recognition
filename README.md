@@ -7,5 +7,7 @@ Named Entity Recognition is a pre-defined list of entities learned by the AI mod
  
  Uses Elmo + Bi-directional LSTM      
  
+ Used existing machine learning models provided by TensorFlowHub via transfer learning
+ 
  Reference     
  https://towardsdatascience.com/elmo-embeddings-in-keras-with-tensorflow-hub-7eb6f0145440
